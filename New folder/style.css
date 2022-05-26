@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+:root
+{
+     --color: blue;
+}
+hr
+{
+	width: 100%;
+}
+
+body
+{
+
+	background-image: url(../hero.jpg);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin: 0;
+padding: 0;
+
+}
+ul
+{
+	display: inline-block;
+	
+	color:white;
+	justify-content: space-between;
+   
+    
+    
+     }
+li{
+	display: inline-block;
+	 position: relative;
+     align-content: center;
+     flex-direction: row;
+     justify-content: space-around;
+     margin: 40px;
+     left: 500px;
+     bottom: 130px;
+     font-size:25px;
+
+}
+.logo img{
+	margin: 40px;
+	height: auto;
+	
+}
+.main
+{
+	max-width: 1200px;
+	margin: auto;
+}
+.davigale
+{
+	
+	padding:15px;
+	padding-right: 30px;
+	padding-left: 30px;
+	border:1px solid blue;
+	background-color: blue;
+
+	
+
+}
+
+.dzaan_davigale
+{
+
+}
+.mshia{
+	color:white;
+	position: relative;
+	left:100px;
+	  bottom: 220px;
+}
+.davigale2
+{  
+	color: white;
+	position: relative;
+	margin: 40px;
+	font-size:20px;
+	
+}
+.xd
+{
+	color: white;
+	font-size: 20px;
+	margin: 20px;
+     
+}
+.wera
+{
+	bottom: 100px;
+}
+.xd2
+{
+		
+	position: relative;
+	border:1px solid blue;
+	background-color: blue;	
+    color: white;
+   
+    width: 200px;
+    margin: 20px;
+    font-size: 30px;
+    padding:15px;
+	padding-right: 1px;
+	padding-left: 10px;
+}
